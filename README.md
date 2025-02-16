@@ -21,4 +21,21 @@ Voici une vidéo d'accompagnement pour vous aider dans les "Forks" : [Forker ce 
 **Notion acquise lors de cette séquence :**  
 Vous avez appris lors de cette séquence à créer des Repository pour stocker et travailler avec votre code informatique. Vous pourez par la suite travailler en groupe sur un projet. Vous avez également appris à faire des Forks. C'est à dire, faire des copies de projets déjà existant dans GitHUB que vous pourrez ensuite adapter à vos besoins.
 
--------------------------------------------------------------------------------------------------------  
+---------------------------------------------------------------------------------------------
+Création de secrets dans GitHub
+---------------------------------------------------------------------------------------------
+Objectif : Création de secrets dans GitHub  
+Difficulté : Moyenne (~15 minutes)
+---------------------------------------------------------------------------------------------
+Dans le Repository GitHUB que vous venez de forker lors de l'étape précédente, **vous avez besoin de créer des secrets dans GitHUB** pour mettre en service votre serveur SonarQube. Le but est de ne pas divulguer des informations sensibles aux internautes de passage dans votre Repository comme vos tocken et URL serveur par exemples.  
+
+Pour ce projet Métriques, **vous aurez 2 secrets à créer** dans votre Repository GitHUB :  
+**SONAR_TOKEN** = Qui est le token fourni par le serveur SonarQube.  
+**SONAR_HOST_URL** = Qui sera l'URL de votre serveur SonarQube.  
+  
+Voici une vidéo pour vous expliquer le processus de création de vos secrets dans GitHUB : [Création des secrets](https://youtu.be/pi80zRdrJyQ)  
+  
+Notions acquises de cette séquence :  
+Vous avez vu dans cette séquence comment créer des secrets GiHUB afin de mettre en place de l'industrialisation continue.  
+
+---------------------------------------------------------------------------------------------  
